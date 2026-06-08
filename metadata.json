@@ -1,0 +1,6 @@
+{
+  "name": "Montessori School Gallery",
+  "description": "A custom storybook-themed photo gallery for a Montessori school, featuring wooden gates, a scrapbook photo board, a featured memory easel, and interactive cards. Photography by Priceless Capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
